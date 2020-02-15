@@ -1,0 +1,15 @@
+.navigation{
+	display: inline-block;
+	vertical-align: 8px
+}
+ul{
+	margin-bottom: 0;
+}
+
+li{
+	font-family: none; 
+	list-style-type:none;
+	display: inline-block;
+	color: blue;
+
+}
