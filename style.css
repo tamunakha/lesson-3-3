@@ -1,3 +1,82 @@
 ul{
 	list-style:none;
 }
+.navigation {
+	display: inline-block;
+	vertical-align: 9px;
+
+}
+
+ul{
+	margin-bottom: 0;
+
+}
+
+li{
+	font-family: ninomtavrulibold;
+	list-style-type: none;
+	display:inline-block;
+	color:blue;
+}
+
+section{
+
+  margin-left: 20px;
+
+}
+.logo{
+	margin-top:30px;
+
+}
+nav-li{
+	text-decoration:none;
+	margin:auto 9px 0 9px;
+}
+
+.day{
+	font-family: ninomtavrulinormal;
+	font-size: 50px
+	display:inline-block;
+	margin-top: 40px;
+	margin-bottom: 8px;
+	color:white;
+	backgound-color:aqua;
+
+
+}
+.month{
+	font-family: ninomtavrulinormal;
+	color:aqua;
+	font-size: 22px;
+
+}
+.title{
+	font-family:ninomtavrulinormal;
+	font-size: 20px;
+	font-weight: 3px;
+
+
+}
+
+.text{
+	font-family: ingiriarial;
+	width: 929px;
+	display: inline-block;
+	margin-left: 20px;
+}
+.images{
+	vertical-align: top;
+	margin-top: 23px;
+	margin-right: 23px;
+}
+.divider{
+	color:aqua;
+	font-size:35px;
+	vertical-align: 5px;
+	margin: 0px 30px 0px 30px
+
+}
+
+footer{
+	margin-left: 18px;
+}
